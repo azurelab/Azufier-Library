@@ -13,5 +13,5 @@ Azufier is an BLE chip onboard with Atmega32u4 microcontroller. See [www.azure-l
 See more library details at [here](www.azure-lab/documentation.html)
 
 ###Reference
-1. [Azufier-Hardware]()
-2. [Azufier-iOS-SDK]()
+1. [Azufier-Hardware](https://github.com/azurelab/Azufier-Hardware)
+2. [Azufier-iOS-SDK](https://github.com/azurelab/Azufier_iOS)
