@@ -15,3 +15,4 @@ See more library details at [here](www.azure-lab/documentation.html)
 ###Reference
 1. [Azufier-Hardware](https://github.com/azurelab/Azufier-Hardware)
 2. [Azufier-iOS-SDK](https://github.com/azurelab/Azufier_iOS)
+3. [Azufier-Library](https://github.com/azurelab/Azufier-Library)
