@@ -1,6 +1,6 @@
 # Azufier-Library
 
-This is an Arduino library for [Azufier](www.azure-lab.com).
+This is an Arduino library for [Azufier](http://www.azure-lab.com).
 
 Azufier is an BLE chip onboard with Atmega32u4 microcontroller. See [www.azure-lab.com](http://www.azure-lab.com) for more details
 
