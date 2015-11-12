@@ -5,7 +5,7 @@
   You can also use our sample app to test this feature.
   
   If you're unsure about these APIs,
-  Check more info from our documenation at  http://www.azure-lab.com
+  Check more info from our documentation at  http://www.azure-lab.com
    
   modified 23/10/2015
   by Azure Lab
