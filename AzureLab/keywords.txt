@@ -1,0 +1,13 @@
+AzufierCtrl	KEYWORD1
+begin	KEYWORD2
+available	KEYWORD2
+autoReconnect	KEYWORD2
+getRawReceivedData	KEYWORD2
+sendDataInString	KEYWORD2
+manualDiscoverable	KEYWORD2
+getMacAddress	KEYWORD2
+startModuleMode	KEYWORD2
+setiBeaconMajor	KEYWORD2
+setiBeaconMinor	KEYWORD2
+restartBTModule	KEYWORD2
+clearPairedList	KEYWORD2
