@@ -12,7 +12,7 @@ Azufier is an BLE chip onboard with Atmega32u4 microcontroller. See [www.azure-l
 5. Select "SparkFun Pro Micro 3.3V/8MHz" board when upload sketch!
 
 ###Documentation
-See more library details at [here](https://www.azure-lab/documentation.html)
+See more library details at [here](http://www.azure-lab.com/documentation/index.html)
 
 ###Reference
 1. [Azufier-Hardware](https://github.com/azurelab/Azufier-Hardware)
