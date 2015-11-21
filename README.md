@@ -8,7 +8,7 @@ Azufier is an BLE chip onboard with Atmega32u4 microcontroller. See [www.azure-l
 1. Install [Arduino IDE](https://www.arduino.cc/en/Main/Software).
 2. Azufier is compatible with SparkFun SF32u4 boards.Adding SparkFun Boards to library by following steps
   - Open Arduino IDE,Go to "Arduino" -> "Prefrences" @ Mac ("File" -> "Preferences" @ Windows)
-  - Add following url(https://raw.githubusercontent.com/sparkfun/Arduino_Boards/master/IDE_Board_Manager/package_sparkfun_index.json)to "Additional Boards Manager URLs:", and press "OK".
+  - Copy following URL "https://raw.githubusercontent.com/sparkfun/Arduino_Boards/master/IDE_Board_Manager/package_sparkfun_index.json" , and add to "Additional Boards Manager URLs:", and press "OK".
   - Go to "Board" -> "Boards Manager".
   - Choose "Contributed" at "Type" option.
   - "SparkFun AVR Boards" option will be able to download now.Click once on the option and press "Install".
